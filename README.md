@@ -1,2 +1,2 @@
 # farcaster-test
-warpcast mini app 
+its test warpcast mini app 
